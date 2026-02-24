@@ -41,7 +41,7 @@ This project is designed to help you practice and understand the usage of `Strin
 Your grade will be based on the correctness of your implementations as verified by the unit tests. Make sure all methods are completed and that all tests pass.
 
 ## Honor Code
-Remember to adhere to the Honor Agreement. Do not copy code from others or AI, and ensure all work is your own.
+Remember to adhere to the GSSM Academic Integrity Policy. Do not copy code from others or AI, and ensure all work is your own.
 
 ## Contact
 If you have any questions or need assistance, send me an email or come to office hours. 
