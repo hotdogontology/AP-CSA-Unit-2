@@ -11,8 +11,7 @@ This project is designed to help you practice and understand the usage of `Strin
 
 ### 1. Setup
 - Accept the assignment from the GitHub Classroom link provided in Google Classroom.
-- Clone the repository to your local machine.
-- Open the project in Eclipse.
+- Open the repository in GitHub Codespaces. (Or clone to your local machine and use your preferred IDE.)
 
 ### 2. Implement Methods
 - Open `Main.java`.
@@ -42,7 +41,10 @@ This project is designed to help you practice and understand the usage of `Strin
 Your grade will be based on the correctness of your implementations as verified by the unit tests. Make sure all methods are completed and that all tests pass.
 
 ## Honor Code
-Remember to adhere to the Honor Agreement. Do not copy code from others, and ensure all work is your own.
+Remember to adhere to the Honor Agreement. Do not copy code from others or AI, and ensure all work is your own.
 
 ## Contact
-If you have any questions or need assistance, feel free to contact me via email at [kevin@csplusplus.com](mailto:kevin@csplusplus.com)
+If you have any questions or need assistance, send me an email or come to office hours. 
+
+## Acknowledgements
+This project has been adapted from the repo generously shared by [Kevin Hare](https://csplusplus.com/).
