@@ -10,7 +10,7 @@ This project is designed to help you practice and understand the usage of `Strin
 ## Instructions
 
 ### 1. Setup
-- Accept the assignment from the GitHub Classroom link provided in Google Classroom.
+- Accept the assignment from the GitHub Classroom link provided in Canvas.
 - Open the repository in GitHub Codespaces. (Or clone to your local machine and use your preferred IDE.)
 
 ### 2. Implement Methods
